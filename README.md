@@ -12,7 +12,8 @@ I made two kinds of noisy images:
 
 ## Cifar_DeLine_AutoEncoder
 Convolutional autoencoder to denoise images.
-![0](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/0.PNG)
+
+![0](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/0.png)
 
 ##### black lines denoising
 ![ae1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/ae1.PNG)
@@ -24,7 +25,8 @@ Convolutional autoencoder to denoise images.
 
 ## Cifar_Denoise_CAE
 Another convolutional autoencoder.
-![1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/1.PNG)
+
+![1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/1.png)
 
 ##### black lines denoising
 ![cae1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/cae1.PNG)
@@ -37,7 +39,8 @@ Another convolutional autoencoder.
 ## Cifar_Denoise_DNCNN
 Denoising convolutional neural network.
 https://arxiv.org/pdf/1608.03981v1.pdf
-![2](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/2.PNG)
+
+![2](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/2.png)
 
 ##### black lines denoising
 ![dncnn1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/dncnn1.PNG)
@@ -50,7 +53,8 @@ https://arxiv.org/pdf/1608.03981v1.pdf
 ## Cifar_Denoise_Win5RB
 Wide Inference Network with 5 layers of Resnet including Batchnormalization.
 https://arxiv.org/pdf/1707.05414.pdf
-![3](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/3.PNG)
+
+![3](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/3.png)
 
 ##### black lines denoising
 ![win1](https://github.com/shibuiwilliam/DeepLearningDenoise/blob/master/imgs/win1.PNG)
